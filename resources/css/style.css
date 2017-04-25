@@ -1,6 +1,43 @@
+body{
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-family: verdana;
+}
+
+
 h1{
   font-family: verdana;
   font-size: 50px;
-  color: red;
+  color: white;
   text-align: center;
+}
+
+/* This is some code I'm testing */
+
+h2 {
+
+  /* color: blue; */
+  font-size: 32px;
+  font-weight: 300;
+}
+
+a{
+  color: aquamarine;
+}
+.cta {
+  /* color: aquamarine; */
+  text-align: center;
+  font-size: 16px;
+}
+
+
+.places{
+  font-size: 21px;
+  color: grey;
+}
+
+.footer{
+  text-align: right;
+  color: grey;
 }
